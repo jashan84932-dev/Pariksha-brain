@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.parikshabrain",
+  "appName": "ਪ੍ਰੀਖਿਆ ਬ੍ਰੇਨ",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
